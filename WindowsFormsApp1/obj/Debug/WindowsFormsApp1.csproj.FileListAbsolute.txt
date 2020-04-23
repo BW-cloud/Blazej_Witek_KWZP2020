@@ -7,3 +7,5 @@ C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Genera
 C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\TheOn\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources

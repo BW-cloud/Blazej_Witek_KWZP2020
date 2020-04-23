@@ -43,7 +43,8 @@ namespace WindowsFormsApp1
 
         private void BUTTON_MouseClick(object sender, MouseEventArgs e)
         {
-            this.Close();
+            Form2 Form2 = new Form2(TEXTBOX.Text);
+            Form2.Show();
         }
     }
 }
